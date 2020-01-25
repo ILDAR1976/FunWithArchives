@@ -1,0 +1,8 @@
+V:\projects\cs\FunWithArchives\Unpacking\bin\Debug\Unpacking.exe.config
+V:\projects\cs\FunWithArchives\Unpacking\bin\Debug\Unpacking.exe
+V:\projects\cs\FunWithArchives\Unpacking\bin\Debug\Unpacking.pdb
+V:\projects\cs\FunWithArchives\Unpacking\obj\Debug\Unpacking.csproj.CopyComplete
+V:\projects\cs\FunWithArchives\Unpacking\obj\Debug\Unpacking.exe
+V:\projects\cs\FunWithArchives\Unpacking\obj\Debug\Unpacking.pdb
+V:\projects\cs\FunWithArchives\Unpacking\bin\Debug\SevenZipSharp.dll
+V:\projects\cs\FunWithArchives\Unpacking\obj\Debug\Unpacking.csprojAssemblyReference.cache
